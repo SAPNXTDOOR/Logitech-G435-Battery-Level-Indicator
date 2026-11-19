@@ -3,6 +3,11 @@
 A lightweight Windows tray and taskbar utility that displays the battery level of the **Logitech G435** wireless headset through its LIGHTSPEED USB dongle.
 
 - **Two display modes:** Choose between a **System Tray icon** (headphone glyph) or a **Taskbar widget** pinned next to the notification area showing the headphone icon and battery percentage, with a hover highlight and Windows 11-style tooltip.
+
+  | Taskbar Widget | System Tray Icon |
+  | :---: | :---: |
+  | ![Taskbar widget](docs/taskbar.png) | ![System tray icon](docs/tray.png) |
+  
 - **Theme-aware & low-battery alert:** Automatically adapts to Windows Light and Dark modes and turns red at `≤15%`.
 - **Menu:** Refresh now, toggle *Show on Taskbar*, *Auto start with Windows*, a cheat sheet of headset button combinations (*Headset Commands*), and exit.
 - **Automatic polling:** Reads the battery every 15 minutes and retries every minute after an error.
