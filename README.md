@@ -26,9 +26,15 @@ To check which dongle revision you have, open **Device Manager** → **Human Int
 
 ## Installing
 
-Download the latest release archive from the [Releases](https://github.com/SAPNXTDOOR/Logitech-G435-Battery-Level-Indicator/releases/latest) page, extract it, and run `Logitech-G435.exe`.
+### Windows
 
-You can enable **Auto start with Windows** and toggle **Show on Taskbar** directly from the icon's menu.
+1. Download the latest release archive from the [Releases](https://github.com/SAPNXTDOOR/Logitech-G435-Battery-Level-Indicator/releases/latest) page.
+2. Extract the archive and run `Logitech-G435.exe`.
+3. Enable **Auto start with Windows** and toggle **Show on Taskbar** directly from the icon's menu.
+
+### Linux
+
+I don't have a Linux system so it's not available for download. Linux files are included so build it yourself from the source directly.
 
 ## Building
 
