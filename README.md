@@ -103,5 +103,6 @@ No USB commands have been found for sidetone, the volume limit, reading hardware
 - [portyporty/g435-battery-percentage][porty]: Windows tray app, `0adf` dongle, voltage→percentage curve
 - [GotardoN1/G435-Companion](https://github.com/GotardoN1/G435-Companion): Bluetooth battery through Windows PnP properties
 - [CSaratakij/G435BatteryApproximate](https://github.com/CSaratakij/G435BatteryApproximate): estimate based on usage time, no real reading
+- [deddroid/logitech-g435-battery](https://github.com/deddroid/logitech-g435-battery):
 
 [porty]: https://github.com/portyporty/g435-battery-percentage
